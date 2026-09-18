@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="530" viewBox="0 0 1100 530" role="img" aria-labelledby="title"><title id="title">Jhimmy Villca. Hardware instincts. Software thinking. Embedded, FPGA and Android.</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111125"/><stop offset="1" stop-color="#090d19"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#7959ff" stop-opacity=".38"/><stop offset="1" stop-color="#7959ff" stop-opacity="0"/></radialGradient>
+<linearGradient id="line"><stop stop-color="#c4a5ff"/><stop offset=".55" stop-color="#9165ff"/><stop offset="1" stop-color="#50dce6"/></linearGradient>
+<linearGradient id="fade"><stop stop-color="#25304c" stop-opacity="0"/><stop offset="1" stop-color="#475384" stop-opacity=".6"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#adb5df" opacity=".14"/></pattern></defs><rect width="1100" height="530" rx="24" fill="url(#bg)"/>
+<rect width="1100" height="530" rx="24" fill="url(#dots)"/>
+<ellipse cx="842" cy="217" rx="370" ry="310" fill="url(#glow)"/>
+<g fill="none" stroke="url(#fade)" stroke-width="1"><path d="M140 530 L708 280"/><path d="M185 530 L717 280"/><path d="M230 530 L726 280"/><path d="M275 530 L735 280"/><path d="M320 530 L744 280"/><path d="M365 530 L753 280"/><path d="M410 530 L762 280"/><path d="M455 530 L771 280"/><path d="M500 530 L780 280"/><path d="M545 530 L789 280"/><path d="M590 530 L798 280"/><path d="M635 530 L807 280"/><path d="M680 530 L816 280"/><path d="M725 530 L825 280"/><path d="M770 530 L834 280"/><path d="M815 530 L843 280"/><path d="M860 530 L852 280"/><path d="M905 530 L861 280"/><path d="M950 530 L870 280"/><path d="M995 530 L879 280"/><path d="M1040 530 L888 280"/><path d="M430 326H1100"/><path d="M430 345H1100"/><path d="M430 373H1100"/><path d="M430 410H1100"/><path d="M430 461H1100"/><path d="M430 525H1100"/></g>
+<g fill="none" stroke="#a592e8" stroke-opacity=".27"><ellipse cx="816" cy="247" rx="115" ry="49.449999999999996" transform="rotate(-34 816 247)"/><ellipse cx="816" cy="247" rx="160" ry="68.8" transform="rotate(-34 816 247)"/><ellipse cx="816" cy="247" rx="205" ry="88.15" transform="rotate(-34 816 247)"/></g>
+<circle cx="816" cy="247" r="66" fill="#161a35" stroke="#bca1ff" stroke-width="2"/>
+<circle cx="816" cy="247" r="57" fill="none" stroke="#5c4b8c"/>
+<path d="M776 257h16v-31h17v43h18v-43h17v31h12" fill="none" stroke="url(#line)" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="961" cy="144" r="7" fill="#70e7ec"/>
+<circle cx="697" cy="331" r="5" fill="#bc9bff"/>
+<path d="M60 66h24" stroke="#ae87ff" stroke-width="3"/>
+<text x="98" y="73" fill="#c7b8ed" font-family="monospace" font-size="20" letter-spacing="3">TORNER1 / ENGINEERING PORTFOLIO</text>
+<text x="57" y="203" fill="#f7f5ff" font-family="Arial, sans-serif" font-size="90" font-weight="700" letter-spacing="-5">Jhimmy</text>
+<text x="57" y="293" fill="#f7f5ff" font-family="Arial, sans-serif" font-size="90" font-weight="700" letter-spacing="-5">Villca<tspan fill="#ad87ff">.</tspan></text>
+<text x="61" y="352" fill="#bab9cf" font-family="Arial, sans-serif" font-size="27">Hardware instincts. Software thinking.</text>
+<rect x="60" y="399" width="427" height="48" rx="24" fill="#1b1c32" stroke="#38334f"/>
+<text x="83" y="430" fill="#e5dff5" font-family="monospace" font-size="18">EMBEDDED / FPGA / ANDROID</text>
+<path d="M60 480h980" stroke="#302d43"/>
+<text x="60" y="510" fill="#9694af" font-family="monospace" font-size="16">COMPUTER ENGINEERING · UNIVERSITY OF GREENWICH</text>
+<text x="1040" y="510" text-anchor="end" fill="#ac8bef" font-family="monospace" font-size="16">BUILD. TEST. REFINE.</text></svg>

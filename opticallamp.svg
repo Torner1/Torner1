@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230" role="img" aria-labelledby="title"><title id="title">OpticalLamp — Morse communication through a smartphone lens.</title><defs></defs><rect x="1" y="1" width="1098" height="228" rx="20" fill="#101422" stroke="#2a3043"/>
+    <text x="36" y="49" fill="#b399ff" font-family="monospace" font-size="18" letter-spacing="2">01 / LIGHT → DATA</text>
+    <text x="33" y="119" fill="#f2f2fa" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">OpticalLamp</text>
+    <text x="36" y="163" fill="#a7b0c6" font-family="Arial, sans-serif" font-size="24">Morse communication through a smartphone lens.</text>
+    <path d="M36 193h70" stroke="#b399ff" stroke-width="3"/>
+<g fill="none" stroke="#5c4e88"><circle cx="941" cy="113" r="76"/><circle cx="941" cy="113" r="56"/><circle cx="941" cy="113" r="36"/></g>
+<circle cx="941" cy="113" r="14" fill="#bd9fff"/>
+<g fill="#b399ff"><circle cx="814" cy="189" r="3"/><circle cx="827" cy="189" r="3"/><circle cx="840" cy="189" r="3"/><rect x="855" y="186" width="20" height="6" rx="3"/><rect x="883" y="186" width="20" height="6" rx="3"/><rect x="911" y="186" width="20" height="6" rx="3"/><circle cx="946" cy="189" r="3"/><circle cx="959" cy="189" r="3"/><circle cx="972" cy="189" r="3"/></g></svg>
